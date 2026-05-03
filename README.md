@@ -48,11 +48,12 @@ copy running-config startup-config
 
 * Ping from PC-A → 10.0.0.2 successful
 * First ping may timeout (ARP), next pings succeed
-
+![Ping Result](ping.png)
 ##  Simulation Insight
 
 * MAC address changes at Router (Layer 3)
 * IP address remains unchanged
-
+* 
+![Simulation](small_office_network.mp4)
 ## Topology
 ![Network Topology](Topology.png)
