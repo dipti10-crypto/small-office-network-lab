@@ -19,4 +19,5 @@ PC-A successfully pinged the Server (10.0.0.2)
 
 * First ping may fail due to ARP
 * Default gateway must be correct
-![Network Topology](Network Topology.png)
+## Topology
+![Network Topology](topology.png)
